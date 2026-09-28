@@ -2,7 +2,7 @@
 
 Android OBD-II gauge app (Kotlin, framework-only, no library dependencies).
 Built by GitHub Actions on every push; the APK is published to the `latest` release.
-The owner works from an iPhone and has no local Android tooling. Default branch is `master`.
+The owner works from an iPhone and has no local Android tooling. Default branch is `main`.
 
 ## Target head unit
 
